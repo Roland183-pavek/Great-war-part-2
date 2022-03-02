@@ -1,6 +1,22 @@
 {
   "resources": [
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
+    {"id":{"name":"midipyrenees_obj","path":"objects/midipyrenees_obj/midipyrenees_obj.yy",},"order":8,},
+    {"id":{"name":"wurttemberg_obj","path":"objects/wurttemberg_obj/wurttemberg_obj.yy",},"order":4,},
+    {"id":{"name":"normandy_obj","path":"objects/normandy_obj/normandy_obj.yy",},"order":5,},
+    {"id":{"name":"paris_sprite","path":"sprites/paris_sprite/paris_sprite.yy",},"order":2,},
+    {"id":{"name":"picardy_obj","path":"objects/picardy_obj/picardy_obj.yy",},"order":2,},
+    {"id":{"name":"brittany_sprite","path":"sprites/brittany_sprite/brittany_sprite.yy",},"order":5,},
+    {"id":{"name":"normandy_sprite","path":"sprites/normandy_sprite/normandy_sprite.yy",},"order":4,},
+    {"id":{"name":"alsace_lorraine_sprite","path":"sprites/alsace_lorraine_sprite/alsace_lorraine_sprite.yy",},"order":0,},
+    {"id":{"name":"paris_obj","path":"objects/paris_obj/paris_obj.yy",},"order":3,},
+    {"id":{"name":"wurttemberg_sprite","path":"sprites/wurttemberg_sprite/wurttemberg_sprite.yy",},"order":3,},
+    {"id":{"name":"provinces","path":"objects/provinces/provinces.yy",},"order":0,},
+    {"id":{"name":"aquitaine_sprite","path":"sprites/aquitaine_sprite/aquitaine_sprite.yy",},"order":6,},
+    {"id":{"name":"picardy_sprite","path":"sprites/picardy_sprite/picardy_sprite.yy",},"order":1,},
+    {"id":{"name":"alsace_lorraine_obj","path":"objects/alsace_lorraine_obj/alsace_lorraine_obj.yy",},"order":1,},
+    {"id":{"name":"midipyrenees_sprite","path":"sprites/midipyrenees_sprite/midipyrenees_sprite.yy",},"order":7,},
+    {"id":{"name":"aquitaine_obj","path":"objects/aquitaine_obj/aquitaine_obj.yy",},"order":7,},
+    {"id":{"name":"brittany_obj","path":"objects/brittany_obj/brittany_obj.yy",},"order":6,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
